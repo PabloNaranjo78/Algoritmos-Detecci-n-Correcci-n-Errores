@@ -1,0 +1,3 @@
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/cmake-build-debug/CMakeFiles/Algoritmos_Detecci_n_Correcci_n_Errores.dir
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

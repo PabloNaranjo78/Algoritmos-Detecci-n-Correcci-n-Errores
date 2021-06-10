@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/CyclicRedundancyCheck/CyclicRedundancyCheck.h
+iostream
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/CyclicRedundancyCheck/iostream
+
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/HammingCode/HammingCode.h
+
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/ParityCheck/ParityCheck.h
+iostream
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/ParityCheck/iostream
+
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/main.cpp
+iostream
+-
+HammingCode/HammingCode.h
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/HammingCode/HammingCode.h
+ParityCheck/ParityCheck.h
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/ParityCheck/ParityCheck.h
+CyclicRedundancyCheck/CyclicRedundancyCheck.h
+C:/Users/jpabl/Documents/GitHub/ChipsAchoy/Algoritmos-Detecci-n-Correcci-n-Errores/CyclicRedundancyCheck/CyclicRedundancyCheck.h
+

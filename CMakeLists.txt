@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(Algoritmos_Detecci_n_Correcci_n_Errores)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Algoritmos_Detecci_n_Correcci_n_Errores main.cpp HammingCode/HammingCode.cpp HammingCode/HammingCode.h ParityCheck/ParityCheck.cpp ParityCheck/ParityCheck.h CyclicRedundancyCheck/CyclicRedundancyCheck.cpp CyclicRedundancyCheck/CyclicRedundancyCheck.h)
